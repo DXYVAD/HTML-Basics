@@ -1,0 +1,42 @@
+.bbb.zzz {
+	color: red;
+}
+h2.bbb.zzz {
+	color: red;
+}
+#elem.bbb {
+	color: red;
+}
+#elem.bbb.zzz {
+	color: red;
+}
+h2#elem.bbb {
+	color: red;
+}
+h2.zzz {
+	color: red;
+}
+h2 .zzz {
+	color: red;
+}
+.bbb .zzz {
+	color: red;
+}
+.bbb.zzz.xxx {
+	color: red;
+}
+.bbb .zzz.xxx {
+	color: red;
+}
+.bbb.zzz .xxx {
+	color: red;
+}
+.bbb .zzz .xxx {
+	color: red;
+}
+#elem.bbb {
+	color: red;
+}
+#elem .bbb {
+	color: red;
+}

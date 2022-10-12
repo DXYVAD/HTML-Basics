@@ -1,0 +1,10 @@
+li {
+    border: 1px solid red;
+	list-style-type: circle;
+	width: 100px;
+}
+li:empty {
+    border: 1px solid blue;
+    list-style-type: circle;
+    width: 100px;
+}

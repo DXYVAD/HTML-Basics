@@ -1,0 +1,36 @@
+[title] {
+    color: red; font-weight: bold;
+}
+
+p[title] {
+    color: red; font-weight: bold;
+}
+
+p[title="привет"] {
+    color: red; font-weight: bold;
+}
+
+a[href^="https://"] {
+    color: red; font-weight: bold;
+}
+
+a[href$=".html"] {
+    color: red; font-weight: bold;
+}
+
+p[title*="привет"] {
+    color: red; font-weight: bold;
+}
+
+p[class|="top"] {
+    color: red; font-weight: bold;
+}
+.top-gear {
+    color: red; font-weight: bold
+}
+.top-reg {
+    color: red; font-weight: bold
+}
+.top-pos {
+    color: red; font-weight: bold
+}
