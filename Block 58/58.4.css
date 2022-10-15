@@ -1,0 +1,6 @@
+#elem {
+    width: 800px;
+    height: 600px;
+    border: 2px solid black;
+    background-image: url("bg.png");
+}
