@@ -1,0 +1,14 @@
+#elem1 {
+    width: 100px;
+	height: 100px;
+	background: gray;
+	margin-bottom: 20px;
+}
+#elem2 {
+    width: 100px;
+	height: 100px;
+	background: gray;
+	border: 10px solid red;
+    padding: 20px;
+    box-sizing: border-box;
+}

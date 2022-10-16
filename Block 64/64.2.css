@@ -1,0 +1,14 @@
+#elem1 {
+    width: 500px;
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 1px solid green;
+    text-align: justify;
+}
+#elem2 {
+    width: 300px;
+    padding: 10px;
+    margin-left: 50px;
+    border: 1px solid red;
+    text-align: justify;
+}

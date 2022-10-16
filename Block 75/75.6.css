@@ -1,0 +1,12 @@
+.parent {
+    text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child {
+    text-align: center;
+    display: inline-block;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+}
