@@ -1,0 +1,20 @@
+#block1, #block2, #block3 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+#block1 {
+    background-color: #FF8888;
+    top: 30px;
+    left: 30px;
+}
+#block2 {
+    background-color: #7E89EB;
+    top: 60px;
+    left: 60px;
+}
+#block3 {
+    background-color: #4DEE99;
+    top: 90px;
+   left: 90px;
+}

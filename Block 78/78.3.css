@@ -1,0 +1,20 @@
+#block1, #block2, #block3 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+#block1 {
+    border: 1px solid red;
+    top: 30px;
+    left: 30px;
+}
+#block2 {
+    border: 1px solid blue;
+    top: 60px;
+    left: 60px;
+}
+#block3 {
+    border: 1px solid green;
+    top: 90px;
+   left: 90px;
+}
