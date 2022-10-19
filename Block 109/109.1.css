@@ -1,0 +1,39 @@
+#wrapper {
+    width: 700px;
+	margin: 50px auto;
+    text-align: justify;
+	border: 1px solid black;
+}
+#menu {
+    display: flex;
+    margin-bottom: 20px;
+    background-color: #484848;
+}
+#menu a {
+	padding: 10px 25px;
+	text-decoration: none;
+	color: #fff;
+	font: bold 14px Arial;
+}
+#menu a:hover, #menu a.active {
+    background-color: #fff;
+    color: #484848;
+}
+#content h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+#content p {
+    padding: 0 10px;
+    margin-bottom: 5px;
+    font: 17px/20px "Times New Roman";
+}
+#content a {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+#content a:active, #content a:hover {
+    color: green;
+    text-decoration: underline;
+}
