@@ -43,9 +43,53 @@ main {
     padding: 20px 10px 20px 20px;
     box-sizing: border-box;
 }
+main h1 {
+    font-size: 21px;
+}
+main h2 {
+    font-size: 19px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}   
+main p {
+    margin: 10px 0;
+}
+table {
+    width: 500px;
+}
+.price td, .price th {
+    border: 1px solid #000000;
+    text-align: center;
+}
+.price th {
+    background-color: #EBEBEB;
+}
+main img {
+    width: 500px;
+    height: 350px;
+    background-size: contain;
+}
 aside {
     width: 360px;
     background-color: #ffffff;
     padding: 20px 20px 20px 10px;
     box-sizing: border-box;
+}
+aside h2 {
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+aside p {
+    font-size: 16px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+footer {
+    display: flex;
+    color: #ffffff;
+    min-height: 75px;
+    align-items: center;
+    justify-content: center;
+    background-color: #F8AA03;
+    
 }
